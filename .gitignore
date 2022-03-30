@@ -1,7 +1,7 @@
 # clion
 .idea
 cpp
-cmake-build-debug
+cmake-build-debug/
 
 # Prerequisites
 *.d
