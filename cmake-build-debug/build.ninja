@@ -72,20 +72,14 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_cpp: phony || CMakeFiles/cpp.dir
 
-build CMakeFiles/cpp.dir/main.cpp.o: CXX_COMPILER__cpp_Debug /media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/cpp/main.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/main.cpp.o.d
+build CMakeFiles/cpp.dir/08-factorial.cpp.o: CXX_COMPILER__cpp_Debug /media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/cpp/08-factorial.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/08-factorial.cpp.o.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp.dir
 
-build CMakeFiles/cpp.dir/data_types.cpp.o: CXX_COMPILER__cpp_Debug /media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/cpp/data_types.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/data_types.cpp.o.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir
-
-build CMakeFiles/cpp.dir/input.cpp.o: CXX_COMPILER__cpp_Debug /media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/cpp/input.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/input.cpp.o.d
+build CMakeFiles/cpp.dir/08-factorial_main.cpp.o: CXX_COMPILER__cpp_Debug /media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/cpp/08-factorial_main.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/08-factorial_main.cpp.o.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp.dir
@@ -98,7 +92,7 @@ build CMakeFiles/cpp.dir/input.cpp.o: CXX_COMPILER__cpp_Debug /media/ralex/2a17a
 #############################################
 # Link the executable cpp
 
-build cpp: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/data_types.cpp.o CMakeFiles/cpp.dir/input.cpp.o
+build cpp: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/08-factorial.cpp.o CMakeFiles/cpp.dir/08-factorial_main.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cpp.dir
   POST_BUILD = :
