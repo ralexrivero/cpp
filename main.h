@@ -13,5 +13,6 @@ float _divf(float a, float b);
 int _divi(int a, int b);
 float sub(float a, float b);
 int mod(int a, int b);
+float iva(float value, int ivaType);
 
 #endif //CPP_MAIN_H
