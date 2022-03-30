@@ -18,5 +18,6 @@ float iva(float value, int ivaType);
 int swap_number(float a, float b);
 int quadratic_eq(float a, float b, float c);
 int factorial(int n);
+int fibonacci(int n);
 
 #endif //CPP_MAIN_H
