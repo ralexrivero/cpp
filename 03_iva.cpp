@@ -13,7 +13,7 @@ float iva(float value, int ivaType) {
 
     if (ivaType == 0)
     {
-        iva = 0.23;
+        iva = 0.22;
     }
     else if (ivaType == 1)
     {
