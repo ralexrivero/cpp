@@ -3,4 +3,4 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp 14-c_array.cpp 15-ternary_operator.cpp)
+add_executable(cpp 14-c_array.cpp 15-ternary_operator.cpp 16-range_for_loop.cpp)
