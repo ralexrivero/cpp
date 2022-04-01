@@ -24,5 +24,6 @@ int main(void)
     f_ref(&a); // call by reference
     printf("original value is: %d\n", a);
 
+    printf("Function f_ref at: %p\n", f_ref);
     return (0);
 }
