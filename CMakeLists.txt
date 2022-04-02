@@ -3,4 +3,4 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp 01-syntax/14-c_array.cpp 01-syntax/15-ternary_operator.cpp 01-syntax/16-range_for_loop.cpp 02-functions/18-functions.cpp 02-functions/19-pass_reference.cpp 02-functions/20-return_value.cpp 02-functions/21-function_pointer.cpp 02-functions/22-jump_table.cpp)
+add_executable(cpp 02-functions/22-jump_table/22-funcs.cpp 02-functions/22-jump_table/22-jump.cpp 02-functions/22-jump_table/22-jump_table.cpp 02-functions/22-jump_table/22-prompt.cpp 02-functions/22-jump_table/main.h)
