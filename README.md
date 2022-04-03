@@ -32,7 +32,7 @@
 [![Github](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A)](https://github.com)<!-- github -->
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=00599C&labelColor=2F333A)](https://www.cplusplus.com/)<!-- c++ -->
 
-* compiler: g++
+- compiler: g++
 
 > Author
 <!-- twitter -->
