@@ -3,4 +3,4 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp 02-functions/22-jump_table/22-funcs.cpp 02-functions/22-jump_table/22-jump.cpp 02-functions/22-jump_table/22-jump_table.cpp 02-functions/22-jump_table/22-prompt.cpp 02-functions/22-jump_table/main.h)
+add_executable(cpp 04-OOP/30-class.cpp 04-OOP/31-data_members.cpp 04-OOP/32-data_member_accessors.cpp)
