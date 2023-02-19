@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.21)
+cmake_minimum_required(VERSION 3.16)
 project(cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp 04-OOP/30-class.cpp 04-OOP/31-data_members.cpp 04-OOP/32-data_member_accessors.cpp)
+add_executable(00x0 0x00-elemental/0x00-salary.cpp)
