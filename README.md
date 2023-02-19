@@ -24,6 +24,10 @@ This repository contains the code of the C++ course.
 - Standard library
 - STL (Standard template library)
 
+## Wiki pages
+
+- [Wiki](./wiki)
+
 ## Environment
 
 [![Ubuntu](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=557C94&logo=Kali%20Linux&logoColor=557C94&labelColor=2F333A)](https://www.kali.org/)<!-- kali linux -->
