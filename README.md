@@ -26,7 +26,7 @@ This repository contains the code of the C++ course.
 
 ## Wiki pages
 
-- [Wiki](./wiki)
+- [Wiki](https://github.com/ralexrivero/cpp/wiki)
 
 ## Environment
 
