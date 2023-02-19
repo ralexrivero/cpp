@@ -1,4 +1,4 @@
-# c++
+# C++
 
 ```bash
   ____________________/\\\__________/\\\_____
@@ -10,7 +10,7 @@
         ____\////////______________________________
 ```
 
-This repository contains the code of the C++ course.
+This repository contains the code of the **C+**+ course.
 
 ## Content
 
